@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoUpdateSample</string>
+    <string name="version">v1.0</string>
+    <string name="text_load">Atualizando versão...</string>
+    <string name="msg_checking_update">Verificando atualização disponível...</string>
+    <string name="action_settings">Settings</string>
+</resources>

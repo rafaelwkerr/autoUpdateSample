@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
     private void checkVersion() {
         UpdateManager manager = new UpdateManager(this);
         UpdateOptions options = new UpdateOptions.Builder(this)
-                .checkUrl("https://api.myjson.com/bins/4hcwo")
+                .checkUrl("https://api.myjson.com/bins/10ytk")
                 .updateFormat(UpdateFormat.JSON)
                 .updatePeriod(new UpdatePeriod(UpdatePeriod.EACH_TIME))
                 .checkPackageName(false)
